@@ -6,6 +6,7 @@ disableKinds = ["taxonomy", "term"]
 [params]
   author = "Noureldin Yosri"
   role = "Quantum Software Engineer"
+  note = "Disclaimer: Opinions are my own."
   scholar = "https://scholar.google.com/citations?user=QGklhZgAAAAJ&hl=en"
   github = "https://github.com/NoureldinYosri"
   linkedin = "https://www.linkedin.com/in/nyosri/"
