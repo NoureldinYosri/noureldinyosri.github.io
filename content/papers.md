@@ -2,6 +2,8 @@
 title: "Selected Papers"
 weight: 1
 ---
+- **Cycle Codes and Decoded Quantum Interferometry**
+  *[arXiv:2609.40036](https://arxiv.org/abs/2609.40036)*, 2026. 
 - **Asymptotic yet practical optimization of quantum circuits implementing GF($2^m$) multiplication and division operations**  
   *[arXiv:2511.20618](https://arxiv.org/abs/2511.20618)*, 2025.
 - **Verifiable Quantum Advantage via Optimized DQI Circuits**  
